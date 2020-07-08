@@ -1,1 +1,1 @@
-# klasyfikator_binarny
+# binary classification of comments
