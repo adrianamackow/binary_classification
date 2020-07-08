@@ -45,7 +45,7 @@ print("Walidacja krzyzowa: ", np.mean(results))
 
 
 
-# Split the data
+# wytrenowanie sieci neuronowej z wykorzystaniem odłożonego zbioru treningowego i testowego
 # x_train, x_valid, y_train, y_valid = train_test_split(data, target, test_size=0.33, shuffle=True)
 # history = network.fit(data,
 #                       target,
