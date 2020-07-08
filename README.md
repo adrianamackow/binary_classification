@@ -5,4 +5,5 @@ This project includes a section for cleaning, lemmatizing, correcting and vector
 2. classifier using naive Bayes classifier 
 3. classifier using logistic regression
 
-Three types of classifiers have been implemented to select the most effective model.
+Three types of classifiers have been implemented to select the most effective model. 
+Comments are assigned to two classes: negative and positive. In this case the most effective model is classifier using a neural network.
